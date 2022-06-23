@@ -1,0 +1,20 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="",ANIMAL PLANET HD 
+http://pfsv.io:80/07720253/51853/179
+#EXTINF:-1 tvg-logo="" group-title="",DISCOVERY CHANNEL 7 http://stla-server4.b-cdn.net:80/live/discoverychannel/chunks.m3u8?token=1656078290_446d101b585322af0af8c8363f06be08d49980a8
+#EXTINF:-1 tvg-logo="" group-title="",DISCOVERY CHANNEL SD
+http://pfsv.io:80/07720253/51853/196
+#EXTINF:-1 tvg-logo="" group-title="",DISCOVERY H&H 
+http://pfsv.io:80/07720253/51853/168
+#EXTINF:-1 tvg-logo="" group-title="",DISCOVERY ID 
+http://pfsv.io:80/07720253/51853/175
+#EXTINF:-1 tvg-logo="" group-title="",DISCOVERY THEATER 
+http://pfsv.io:80/07720253/51853/185
+#EXTINF:-1 tvg-logo="" group-title="",HISTÓRY CHANNEL 
+http://pfsv.io:80/07720253/51853/204
+#EXTINF:-1 tvg-logo="" group-title="",TV BABY
+http://service-stitcher.clusters.pluto.tv:80/stitch/hls/channel/5f4fb4cf605ddf000748e16f/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=false&architecture=&deviceId=a575dc40-77db-11eb-bfcd-e755c619a901&deviceVersion=unknown&appVersion=unknown&deviceType=web&deviceMake=Chrome&sid=6708234f-7c33-4ea1-b3ea-e27dab0bf1f1&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=web&userId=&appName=web
+#EXTINF:-1 tvg-logo="" group-title="",NICK JR 
+http://service-stitcher.clusters.pluto.tv:80/stitch/hls/channel/5f121460b73ac6000719fbaf/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=false&architecture=&deviceId=9781a100-629b-11eb-86b1-3facc9da388a&deviceVersion=unknown&appVersion=unknown&deviceType=web&deviceMake=Chrome&sid=c002e3af-c4af-4a44-867e-55e324587507&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=web&userId=&appName=web
+#EXTINF:-1 tvg-logo="" group-title="",DISCOVERY CHANNEL 1
+http://stla-server4.b-cdn.net:80/live/discoverychannel/chunks.m3u8?token=1656078290_446d101b585322af0af8c8363f06be08d49980a8
